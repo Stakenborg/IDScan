@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+
+target 'ScanDemo' do
+  inhibit_all_warnings!  
+  use_frameworks!
+  pod 'IDScan', :git => 'https://github.com/Stakenborg/IDScan.git'
+end

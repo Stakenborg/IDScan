@@ -1,0 +1,21 @@
+PODS:
+  - IDScan (1.0.0)
+
+DEPENDENCIES:
+  - IDScan (from `https://github.com/Stakenborg/IDScan.git`)
+
+EXTERNAL SOURCES:
+  IDScan:
+    :git: https://github.com/Stakenborg/IDScan.git
+
+CHECKOUT OPTIONS:
+  IDScan:
+    :commit: 52ad115728c2e6dc8681521902322d8d9c9209d7
+    :git: https://github.com/Stakenborg/IDScan.git
+
+SPEC CHECKSUMS:
+  IDScan: bb606ac5f0db944a6e9ee03d1540c5e1511e54fc
+
+PODFILE CHECKSUM: ac67f4eda13fa6cb90e3d6457ec46d7f0daf85cf
+
+COCOAPODS: 1.7.1
